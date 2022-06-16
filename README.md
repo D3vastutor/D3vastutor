@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Machtal Nuar
-- 👀 I’m interested in C# application developing
+- 👀 I’m interested in C#
 - 🌱 I’m currently learning Mobile Developer world
 - 💞️ I’m looking to collaborate on Mobile App Develop
 - 📫 How to reach me @linkedin.com/in/machtal-nuar/
